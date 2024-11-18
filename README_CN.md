@@ -16,7 +16,7 @@
 1. 安装Python环境
    - 双击运行文件夹中的 `python-3.x.x-amd64.exe`
    - 安装时必须勾选 "Add Python to PATH"
-   ![Python安装界面](<PIC/Python install.png>)
+   ![Python安装界面](<Python install.png>)
    - 点击 "Install Now" 开始安装
 
 2. 安装开发环境(Wing IDE)
@@ -64,10 +64,10 @@
 username = "...@..."  # 改为你的Renweb用户名
 password = "......."  # 改为你的Renweb密码
 ```
-![配置界面](<PIC/Code Change.png>)
+![配置界面](<Code Change.png>)
 
 ## 运行程序
-![IDE界面](<PIC/IDE interface.png>)
+![IDE界面](<IDE interface.png>)
 1. 在Wing IDE中打开 `main.py`
 2. 点击工具栏的运行按钮（绿色三角形图标）或按F5
 3. 程序会自动：
