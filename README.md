@@ -16,7 +16,7 @@ Make sure you have all these files:
 1. Install Python
    - Double-click `python-3.x.x-amd64.exe`
    - Must check "Add Python to PATH"
-   ![Python Installation](<PIC/Python install.png>)
+   ![Python Installation](<Python install.png>)
    - Click "Install Now"
 
 2. Install Wing IDE
@@ -64,10 +64,10 @@ Make sure you have all these files:
 username = "...@..."  # Your Renweb username
 password = "......."  # Your Renweb password
 ```
-![Configuration](<PIC/Code Change.png>)
+![Configuration](<Code Change.png>)
 
 ## Running the Program
-![IDE Interface](<PIC/IDE interface.png>)
+![IDE Interface](<IDE interface.png>)
 1. Open `main.py` in Wing IDE
 2. Click the run button (green triangle) or press F5
 3. The program will:
